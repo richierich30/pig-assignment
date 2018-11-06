@@ -1,0 +1,19 @@
+REPORT OF TASK:
+First of all to start on Hadoop we have to start all the daemons.
+This we can do by -
+"start-all.sh" command.
+It activate all the Hadoop Services including Namenode,Datanode,Resource Manager,Secondary Namenode,NodeManager.
+
+With the help of "jps" command, we can see all the running Hadoop Services.
+
+Then i created a file with name "doc.txt" and by using command "cat /home/acadgild/Documents/doc.txt" I display the file on the terminal window.
+
+I opened hdfs web page by typing "localhost:50070" in the browser . It displayed all the information like the date when it started,version,compiled,cluster ID. It also show all the information about the process which are running or finished.
+
+In the last I see all the files that is stored in hdfs.
+like:
+ hbase
+ sqoopout111
+ tmp
+ user
+
