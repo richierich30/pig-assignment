@@ -1,4 +1,0 @@
-1,Richa,Lucknow
-2,Vedant,Kanpur
-3,Aditi,Shimla
-4,Neelam,Dehradun
